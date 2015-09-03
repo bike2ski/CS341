@@ -1,0 +1,31 @@
+html {
+	font-family: sans-serif;
+}
+
+body {
+	background-color:rgb(229,227,223);
+	padding: 0px;
+	margin: 0px;
+}
+
+
+div#header {
+	padding: 30px;
+	background-image: url("library.jpg");
+	border-bottom: 2px solid orange;
+	color: white;
+}
+
+div#header p {
+	display: inline-block;
+}
+
+div#footer {
+	border-top: 2px solid #666;
+	padding: 30px;
+	color: #666;
+}
+
+p.title {
+	font-size: 36px;
+}
