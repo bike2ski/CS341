@@ -26,6 +26,15 @@ div#footer {
 	color: #666;
 }
 
+div#about {
+	opacity: 0;
+	transition: all 2s linear;
+}
+
+div#about.show {
+	opacity: 1;
+}
+
 p.title {
 	font-size: 36px;
 }
