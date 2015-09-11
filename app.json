@@ -1,0 +1,6 @@
+{
+  "name": "honsinge15Simplest",
+  "description": "Simple Heroku App for CS341",
+  "repository": "https://github.com/bike2ski/CS341/tree/classroom",
+  "keywords": ["node", "express", "static"]
+}
