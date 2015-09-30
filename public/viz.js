@@ -34,7 +34,7 @@ var year = [2013, 2014];
 // turn off the legend.                                                                                                
 var options = {        width: 700,
         height: 400,
-    title: 'Session Hours Provided by University of Portland Librarians in 2014',
+    title: 'Session Hours Provided by University of Portland Librarians in ' + year[0],
         hAxis: {
             title: 'Month',
             gridlines: {count: 12}
